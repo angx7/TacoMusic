@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "ALBA",
+        "url": "assets/music/3AM/3AM-ALBA.mp3",
+        "duracion": "3:57"
+    },
+    {
+        "id": 2,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "Aqui Sigo",
+        "url": "assets/music/3AM/3AM-Aqui-Sigo.mp3",
+        "duracion": "3:09"
+    },
+    {
+        "id": 3,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "Emeyce",
+        "url": "assets/music/3AM/3AM-Emeyce.mp3",
+        "duracion": "3:18"
+    },
+    {
+        "id": 4,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "Endaño",
+        "url": "assets/music/3AM/3AM-Endaño.mp3",
+        "duracion": "2:42"
+    },
+    {
+        "id": 5,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "Por Ti",
+        "url": "assets/music/3AM/3AM-Por-Ti.mp3",
+        "duracion": "3:14"
+    },
+    {
+        "id": 6,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "Tiempo",
+        "url": "assets/music/3AM/3AM-Tiempo.mp3",
+        "duracion": "1:37"
+    },
+    {
+        "id": 7,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "Una Rosa",
+        "url": "assets/music/3AM/3AM-Una-Rosa.mp3",
+        "duracion": "2:46"
+    },
+    {
+        "id": 8,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "Vidas Pasadas",
+        "url": "assets/music/3AM/3AM-Vidas-Pasadas.mp3",
+        "duracion": "2:19"
+    },
+    {
+        "id": 9,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "Vuela",
+        "url": "assets/music/3AM/3AM-Vuela.mp3",
+        "duracion": "3:17"
+    },
+    {
+        "id": 10,
+        "playlist": "3AM",
+        "artista": "3AM",
+        "nombre": "You",
+        "url": "assets/music/3AM/3AM-You.mp3",
+        "duracion": "2:11"
+    }
+]

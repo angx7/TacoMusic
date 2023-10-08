@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "Alhan",
+        "artista": "Alhan",
+        "nombre": "Dulce pesadilla",
+        "url": "assets/music/Alhan/Alhan-Dulce-pesadilla.mp3",
+        "duracion": "3:40"
+    },
+    {
+        "id": 2,
+        "playlist": "Alhan",
+        "artista": "Alhan",
+        "nombre": "Entrevista a Dios",
+        "url": "assets/music/Alhan/Alhan-Entrevista-a-Dios.mp3",
+        "duracion": "5:09"
+    },
+    {
+        "id": 3,
+        "playlist": "Alhan",
+        "artista": "Alhan",
+        "nombre": "Los Fantasmas tambien sienten",
+        "url": "assets/music/Alhan/Alhan-Los-Fantasmas-también-sienten.mp3",
+        "duracion": "3:15"
+    },
+    {
+        "id": 4,
+        "playlist": "Alhan",
+        "artista": "Alhan",
+        "nombre": "Mi mundo es Green",
+        "url": "assets/music/Alhan/Alhan-Mi-mundo-es-Green.mp3",
+        "duracion": "4:06"
+    },
+    {
+        "id": 5,
+        "playlist": "Alhan",
+        "artista": "Alhan",
+        "nombre": "Sofia",
+        "url": "assets/music/Alhan/Alhan-Sofia.mp3",
+        "duracion": "5:26"
+    },
+    {
+        "id": 6,
+        "playlist": "Alhan",
+        "artista": "Alhan",
+        "nombre": "Tocando fondo",
+        "url": "assets/music/Alhan/Alhan-Tocando-fondo.mp3",
+        "duracion": "4:49"
+    },
+    {
+        "id": 7,
+        "playlist": "Green A",
+        "artista": "Green A",
+        "nombre": "Carta a Dios",
+        "url": "assets/music/Alhan/Green-A-Carta-a-dios.mp3",
+        "duracion": "4:10"
+    },
+    {
+        "id": 8,
+        "playlist": "Green A",
+        "artista": "Green A",
+        "nombre": "Estoy loco",
+        "url": "assets/music/Alhan/Green-A-Estoy-loco.mp3",
+        "duracion": "3:47"
+    },
+    {
+        "id": 9,
+        "playlist": "Green A",
+        "artista": "Green A",
+        "nombre": "Incertidumbre",
+        "url": "assets/music/Alhan/Green-A-Incertidumbre.mp3",
+        "duracion": "3:23"
+    },
+    {
+        "id": 10,
+        "playlist": "Green A",
+        "artista": "Green A",
+        "nombre": "Mundo Hipocrita",
+        "url": "assets/music/Alhan/Green-A-Mundo-Hipocrita.mp3",
+        "duracion": "4:19"
+    }
+]

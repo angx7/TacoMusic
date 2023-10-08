@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Buscandote",
+        "url": "assets/music/Siddhartha/Siddhartha-Buscandote.mp3",
+        "duracion": "4:16"
+    },
+    {
+        "id": 2,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Camara",
+        "url": "assets/music/Siddhartha/Siddhartha-Camara.mp3",
+        "duracion": "3:49"
+    },
+    {
+        "id": 3,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Ecos de Miel",
+        "url": "assets/music/Siddhartha/Siddhartha-Ecos-de-Miel.mp3",
+        "duracion": "3:16"
+    },
+    {
+        "id": 4,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Extraños",
+        "url": "assets/music/Siddhartha/Siddhartha-Extranos.mp3",
+        "duracion": "3:22"
+    },
+    {
+        "id": 5,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Gota a Gota",
+        "url": "assets/music/Siddhartha/Siddhartha-Gota-a-Gota.mp3",
+        "duracion": "3:00"
+    },
+    {
+        "id": 6,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Me Hace Falta",
+        "url": "assets/music/Siddhartha/Siddhartha-Me-Hace-Falta.mp3",
+        "duracion": "4:21"
+    },
+    {
+        "id": 7,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Ser Parte",
+        "url": "assets/music/Siddhartha/Siddhartha-Ser-Parte.mp3",
+        "duracion": "4:17"
+    },
+    {
+        "id": 8,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Tarde",
+        "url": "assets/music/Siddhartha/Siddhartha-Tarde.mp3",
+        "duracion": "4:28"
+    },
+    {
+        "id": 9,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Unicos",
+        "url": "assets/music/Siddhartha/Siddhartha-Unicos.mp3",
+        "duracion": "4:10"
+    },
+    {
+        "id": 10,
+        "playlist": "Siddhartha",
+        "artista": "Siddhartha",
+        "nombre": "Why you?",
+        "url": "assets/music/Siddhartha/Siddhartha-Why-you.mp3",
+        "duracion": "5:08"
+    }
+]

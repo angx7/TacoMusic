@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "Alone",
+        "url": "assets/music/Alan-Walker/Alan-Walker-Alone.mp3",
+        "duracion": "2:43"
+    },
+    {
+        "id": 2,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "Better Off",
+        "url": "assets/music/Alan-Walker/Alan-Walker-Better-Off.mp3",
+        "duracion": "2:31"
+    },
+    {
+        "id": 3,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "Darkside",
+        "url": "assets/music/Alan-Walker/Alan-Walker-Darkside.mp3",
+        "duracion": "3:59"
+    },
+    {
+        "id": 4,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "Different World",
+        "url": "assets/music/Alan-Walker/Alan-Walker-Different-World.mp3",
+        "duracion": "3:42"
+    },
+    {
+        "id": 5,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "Faded",
+        "url": "assets/music/Alan-Walker/Alan-Walker-Faded.mp3",
+        "duracion": "3:32"
+    },
+    {
+        "id": 6,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "Lily",
+        "url": "assets/music/Alan-Walker/Alan-Walker-Lily.mp3",
+        "duracion": "3:36"
+    },
+    {
+        "id": 7,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "On My Way",
+        "url": "assets/music/Alan-Walker/Alan-Walker-On-My-Way.mp3",
+        "duracion": "3:36"
+    },
+    {
+        "id": 8,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "Spectre",
+        "url": "assets/music/Alan-Walker/Alan-Walker-Spectre.mp3",
+        "duracion": "4:00"
+    },
+    {
+        "id": 9,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "The Spectre",
+        "url": "assets/music/Alan-Walker/Alan-Walker-The-Spectre.mp3",
+        "duracion": "3:26"
+    },
+    {
+        "id": 10,
+        "playlist": "Alan Walker",
+        "artista": "Alan Walker",
+        "nombre": "Unity",
+        "url": "assets/music/Alan-Walker/Alan-Walker-Unity.mp3",
+        "duracion": "3:49"
+    }
+]

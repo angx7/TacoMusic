@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Con Quien",
+        "url": "assets/music/Sergi/Sergi-Con-Quien.mp3",
+        "duracion": "2:53"
+    },
+    {
+        "id": 2,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Dame Tu Love",
+        "url": "assets/music/Sergi/Sergi-Dame-Tu-Love.mp3",
+        "duracion": "3:17"
+    },
+    {
+        "id": 3,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Dopamina",
+        "url": "assets/music/Sergi/Sergi-Dopamina.mp3",
+        "duracion": "3:23"
+    },
+    {
+        "id": 4,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "El Vestido",
+        "url": "assets/music/Sergi/Sergi-El-Vestido.mp3",
+        "duracion": "3:14"
+    },
+    {
+        "id": 5,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Fire",
+        "url": "assets/music/Sergi/Sergi-Fire.mp3",
+        "duracion": "2:40"
+    },
+    {
+        "id": 6,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Inalcanzable",
+        "url": "assets/music/Sergi/Sergi-Inalcanzable.mp3",
+        "duracion": "2:46"
+    },
+    {
+        "id": 7,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Maquina Del Tiempo",
+        "url": "assets/music/Sergi/Sergi-Maquina-Del-Tiempo.mp3",
+        "duracion": "3:27"
+    },
+    {
+        "id": 8,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Miami",
+        "url": "assets/music/Sergi/Sergi-Miami.mp3",
+        "duracion": "3:04"
+    },
+    {
+        "id": 9,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Modo Avion",
+        "url": "assets/music/Sergi/Sergi-Modo-Avion.mp3",
+        "duracion": "3:51"
+    },
+    {
+        "id": 10,
+        "playlist": "Sergi",
+        "artista": "Sergi",
+        "nombre": "Solo",
+        "url": "assets/music/Sergi/Sergi-Solo.mp3",
+        "duracion": "3:13"
+    }
+]

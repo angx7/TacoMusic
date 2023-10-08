@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "Lento",
+        "url": "assets/music/Santy-P/Santy-P-Lento.mp3",
+        "duracion": "3:13"
+    },
+    {
+        "id": 2,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "Jet Lag",
+        "url": "assets/music/Santy-P/Santy-P-Jet-Lag.mp3",
+        "duracion": "3:05"
+    },
+    {
+        "id": 3,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "Moon",
+        "url": "assets/music/Santy-P/Santy-P-Moon.mp3",
+        "duracion": "2:33"
+    },
+    {
+        "id": 4,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "Idealizar",
+        "url": "assets/music/Santy-P/Santy-P-Idealizar.mp3",
+        "duracion": "2:43"
+    },
+    {
+        "id": 5,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "MAMA",
+        "url": "assets/music/Santy-P/Santy-P-MAMA.mp3",
+        "duracion": "3:03"
+    },
+    {
+        "id": 6,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "Cansado",
+        "url": "assets/music/Santy-P/Santy-P-Cansado.mp3",
+        "duracion": "3:32"
+    },
+    {
+        "id": 7,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "Intento",
+        "url": "assets/music/Santy-P/Santy-P-Intento.mp3",
+        "duracion": "2:29"
+    },
+    {
+        "id": 8,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "Modelo",
+        "url": "assets/music/Santy-P/Santy-P-Modelo.mp3",
+        "duracion": "2:31"
+    },
+    {
+        "id": 9,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "Otra Noche",
+        "url": "assets/music/Santy-P/Santy-P-Otra-Noche.mp3",
+        "duracion": "2:41"
+    },
+    {
+        "id": 10,
+        "playlist": "Santy-P",
+        "artista": "Santy-P",
+        "nombre": "BONNIE & CLYDE",
+        "url": "assets/music/Santy-P/Santy-P-BONNIE-&-CLYDE.mp3",
+        "duracion": "2:20"
+    }
+]

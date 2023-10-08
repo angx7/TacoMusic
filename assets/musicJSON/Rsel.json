@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "En mi cabeza",
+        "url": "assets/music/Rsel/Rsel-En-mi-cabeza.mp3",
+        "duracion": "2:27"
+    },
+    {
+        "id": 2,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "He pensado en llamarte",
+        "url": "assets/music/Rsel/Rsel-He-pensado-en-llamarte.mp3",
+        "duracion": "2:35"
+    },
+    {
+        "id": 3,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "La Ultima Carta",
+        "url": "assets/music/Rsel/Rsel-La-Ultima-Carta.mp3",
+        "duracion": "3:13"
+    },
+    {
+        "id": 4,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "Otra vez",
+        "url": "assets/music/Rsel/Rsel-Otra-vez.mp3",
+        "duracion": "3:07"
+    },
+    {
+        "id": 5,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "Pasara",
+        "url": "assets/music/Rsel/Rsel-Pasara.mp3",
+        "duracion": "3:24"
+    },
+    {
+        "id": 6,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "Por Miedo",
+        "url": "assets/music/Rsel/Rsel-Por-Miedo.mp3",
+        "duracion": "3:16"
+    },
+    {
+        "id": 7,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "Sigue haciendo frio",
+        "url": "assets/music/Rsel/Rsel-Sigue-haciendo-frio.mp3",
+        "duracion": "2:52"
+    },
+    {
+        "id": 8,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "Sin pedirme perdon",
+        "url": "assets/music/Rsel/Rsel-Sin-pedirme-perdon.mp3",
+        "duracion": "3:16"
+    },
+    {
+        "id": 9,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "Te sigo pensando",
+        "url": "assets/music/Rsel/Rsel-Te-sigo-pensando.mp3",
+        "duracion": "3:05"
+    },
+    {
+        "id": 10,
+        "playlist": "Rsel",
+        "artista": "Rsel",
+        "nombre": "Todo mi amor",
+        "url": "assets/music/Rsel/Rsel-Todo-mi-amor.mp3",
+        "duracion": "2:55"
+    }
+]

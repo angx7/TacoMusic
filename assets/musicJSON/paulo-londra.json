@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Adan y Eva",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Adan-y-Eva.mp3",
+        "duracion": "4:20"
+    },
+    {
+        "id": 2,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "BZRP Music Sessions#23",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-BZRP-Music-Sessions.mp3",
+        "duracion": "4:17"
+    },
+    {
+        "id": 3,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Camara Lenta",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Camara-Lenta.mp3",
+        "duracion": "3:15"
+    },
+    {
+        "id": 4,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Chica Paranormal",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Chica-Paranormal.mp3",
+        "duracion": "3:41"
+    },
+    {
+        "id": 5,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Cuando Te Bese",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Cuando-Te-Bese.mp3",
+        "duracion": "4:39"
+    },
+    {
+        "id": 6,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Forever Alone",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Forever-Alone.mp3",
+        "duracion": "3:43"
+    },
+    {
+        "id": 7,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Me Tiene Mal",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Me-Tiene-Mal.mp3",
+        "duracion": "4:15"
+    },
+    {
+        "id": 8,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Nena Maldicion",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Nena-Maldicion.mp3",
+        "duracion": "3:51"
+    },
+    {
+        "id": 9,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Plan A",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Plan-A.mp3",
+        "duracion": "3:05"
+    },
+    {
+        "id": 10,
+        "playlist": "Paulo Londra",
+        "artista": "Paulo Londra",
+        "nombre": "Tal Vez",
+        "url": "assets/music/Paulo-Londra/Paulo-Londra-Tal-Vez.mp3",
+        "duracion": "4:31"
+    }
+]

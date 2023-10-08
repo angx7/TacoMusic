@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "Ahora",
+        "url": "assets/music/Oscu/Oscu-Ahora.mp3",
+        "duracion": "2:51"
+    },
+    {
+        "id": 2,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "La Tengo Engancha",
+        "url": "assets/music/Oscu/Oscu-La-Tengo-Engancha.mp3",
+        "duracion": "2:49"
+    },
+    {
+        "id": 3,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "Loco",
+        "url": "assets/music/Oscu/Oscu-Loco.mp3",
+        "duracion": "3:36"
+    },
+    {
+        "id": 4,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "Malibu de Coco",
+        "url": "assets/music/Oscu/Oscu-Malibu-de-Coco.mp3",
+        "duracion": "2:30"
+    },
+    {
+        "id": 5,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "Money",
+        "url": "assets/music/Oscu/Oscu-Money.mp3",
+        "duracion": "2:40"
+    },
+    {
+        "id": 6,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "No Dijeron Nada",
+        "url": "assets/music/Oscu/Oscu-No-Dijeron-Nada.mp3",
+        "duracion": "3:07"
+    },
+    {
+        "id": 7,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "Numero 1",
+        "url": "assets/music/Oscu/Oscu-Numero-1.mp3",
+        "duracion": "2:46"
+    },
+    {
+        "id": 8,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "Papeles",
+        "url": "assets/music/Oscu/Oscu-Papeles.mp3",
+        "duracion": "2:41"
+    },
+    {
+        "id": 9,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "STAR",
+        "url": "assets/music/Oscu/Oscu-STAR.mp3",
+        "duracion": "3:24"
+    },
+    {
+        "id": 10,
+        "playlist": "Oscu",
+        "artista": "Oscu",
+        "nombre": "TangoTrap",
+        "url": "assets/music/Oscu/Oscu-TangoTrap.mp3",
+        "duracion": "3:22"
+    }
+]

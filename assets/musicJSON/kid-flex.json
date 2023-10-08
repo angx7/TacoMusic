@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "Amor Verdadero",
+        "url": "assets/music/KID-FLEX/KID-FLEX-Amor-Verdadero.mp3",
+        "duracion": "3:13"
+    },
+    {
+        "id": 2,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "Asi Es La Vida",
+        "url": "assets/music/KID-FLEX/KID-FLEX-Asi-Es-La-Vida.mp3",
+        "duracion": "2:27"
+    },
+    {
+        "id": 3,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "I Love U",
+        "url": "assets/music/KID-FLEX/KID-FLEX-I-Love-U.mp3",
+        "duracion": "3:38"
+    },
+    {
+        "id": 4,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "Lo Siento",
+        "url": "assets/music/KID-FLEX/KID-FLEX-Lo-Siento.mp3",
+        "duracion": "3:37"
+    },
+    {
+        "id": 5,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "Luna",
+        "url": "assets/music/KID-FLEX/KID-FLEX-Luna.mp3",
+        "duracion": "3:10"
+    },
+    {
+        "id": 6,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "No Hay Pretextos",
+        "url": "assets/music/KID-FLEX/KID-FLEX-No-Hay-Pretextos.mp3",
+        "duracion": "3:22"
+    },
+    {
+        "id": 7,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "No Lo Sabes",
+        "url": "assets/music/KID-FLEX/KID-FLEX-No-Lo-Sabes.mp3",
+        "duracion": "3:01"
+    },
+    {
+        "id": 8,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "No Soy Perfecto",
+        "url": "assets/music/KID-FLEX/KID-FLEX-No-Soy-Perfecto.mp3",
+        "duracion": "2:43"
+    },
+    {
+        "id": 9,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "Seguro Te Pierdo",
+        "url": "assets/music/KID-FLEX/KID-FLEX-Seguro-Te-Pierdo.mp3",
+        "duracion": "2:55"
+    },
+    {
+        "id": 10,
+        "playlist": "KID FLEX",
+        "artista": "KID FLEX",
+        "nombre": "Te Escondes",
+        "url": "assets/music/KID-FLEX/KID-FLEX-Te-Escondes.mp3",
+        "duracion": "3:14"
+    }
+]
